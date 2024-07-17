@@ -2,7 +2,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&random=false&width=575&lines=Computer+Engineer;+Mobile+Application+Development+Assistant+Specialist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&random=false&width=630&lines=Computer+Engineer;+Mobile+Application+Development+Assistant+Specialist" alt="Typing SVG" /></a>
 
 
 
