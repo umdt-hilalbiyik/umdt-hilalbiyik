@@ -2,6 +2,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=274060&vCenter=true&multiline=true&random=false&width=435&lines=Mobile+Application+Development+Assistant+Specialist" alt="Typing SVG" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&random=false&width=575&lines=Computer+Engineer;+Mobile+Application+Development+Assistant+Specialist" alt="Typing SVG" /></a>
+
+
+
+
 
 <!--
 **umdt-hilalbiyik/umdt-hilalbiyik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
